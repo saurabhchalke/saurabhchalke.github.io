@@ -271,3 +271,38 @@ a:active, a:focus {
 #wrapper {
   min-height: calc(100vh - 100px);
 }
+
+// About me page
+
+.about-me-content {
+  display: flex;
+  align-items: center;
+}
+
+.about-me-content img {
+  max-width: 50%;
+  margin-right: 20px;
+  border-radius: 15px;
+}
+
+.about-me-content div {
+  text-align: justify;
+}
+
+/* Mobile Responsive Adjustments */
+@media (max-width: 768px) {
+  .about-me-content {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .about-me-content img {
+      max-width: 100%;
+      margin-right: 0;
+      margin-bottom: 20px;
+  }
+
+  .about-me-content div {
+      text-align: center;
+  }
+}
