@@ -1,17 +1,17 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
-url: "https://ashishchaudhary.in/hacker-blog"
+title: Saurabh Chalke's home on the Internet
+description: "Hello! I'm Saurabh Chalke, your friendly neighborhood cypherpunk."
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Saurabh Chalke"
+  email: "saurabh@zkHub.dev"
+  url: "https://chalke.xyz/"
 
 baseurl: /
+
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
-paginate_path: /page:num/
+paginate: 5
+paginate_path: /page/:num/
 
 defaults:
   -
@@ -27,7 +27,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-google_analytics: "UA-67838485-1"
 # Custom variables
-owner : "SomeHacker"
-year : "2017"
+owner : "Saurabh Chalke"
+year : "2023"

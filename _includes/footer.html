@@ -1,8 +1,9 @@
 <footer>
-  <a href="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US">
+  <a href="https://saurabhchalke.github.io">
     <span>
         <b>{{ site.owner}}</b>
     </span>
-    <span>© {{ site.year }}</span>
+    {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+    <span>© {{ currentyear }}</span>
   </a>
 </footer>
