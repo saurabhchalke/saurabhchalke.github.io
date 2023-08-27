@@ -3,7 +3,7 @@ title: Journeying into the Cryptographic Wonderland - Secure Multi-Party Computa
 published: true
 ---
 
-Hello, dear cypherpunks, tech nerds, and curious onlookers! Today, I'm going to take you on a captivating journey through the labyrinth of Secure Multi-Party Computation (MPC). If that sounds like a mouthful, don't worry! By the end of this read, you'll be casually dropping MPC references at your next dinner party (or Zoom call).
+Hello cypherpunks, tech nerds, and curious onlookers! Today, I'm going to take you on a captivating journey through the labyrinth of Secure Multi-Party Computation (MPC). If that sounds like a mouthful, don't worry! By the end of this read, you'll be casually dropping MPC references at your next dinner party (or Zoom call).
 
 ## Introduction
 
