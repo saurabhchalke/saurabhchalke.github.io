@@ -7,6 +7,8 @@ author:
 
 baseurl: /
 
+google_analytics: G-5ME1WNF73X
+
 source: .
 destination: ./_site
 permalink: /:title
