@@ -1,0 +1,56 @@
+---
+title: "Exploring Speech-to-Text Capabilities on Meta Quest 3"
+date: 2024-07-31
+categories: [VR, Speech-to-Text, Meta Quest 3]
+published: true
+---
+
+## Exploring Speech-to-Text Capabilities on Meta Quest 3
+
+### Introduction
+In this blog post, I'll share my recent experiments with speech-to-text capabilities on the Meta Quest 3. Using OpenAI's Whisper model and Meta's Wit.ai platform, I aimed to evaluate the performance and feasibility of running these models locally versus using a hosted solution. This exploration not only sheds light on the technical aspects but also on the practical considerations of deploying such models in VR environments.
+
+### Background
+Speech-to-text technology has made significant strides, enabling seamless interaction in various applications. In the realm of virtual reality (VR), this technology can enhance user experience by providing natural and intuitive interfaces. The Meta Quest 3, a powerful VR headset, presents an exciting opportunity to test these capabilities.
+
+#### Tools and Models Used
+1. **OpenAI's Whisper Model**: A state-of-the-art automatic speech recognition (ASR) model known for its accuracy and multilingual support.
+2. **Meta's Wit.ai Platform**: A hosted solution offering real-time speech-to-text conversion with relatively low latency.
+
+### Experiment Setup
+To test the speech-to-text performance, I used a sample scene with JFK's famous audio clip: "Ask not what your country can do for you – ask what you can do for your country." The goal was to measure the latency and feasibility of running these models locally on the Meta Quest 3 versus using a hosted solution.
+
+### Running the Tests
+#### Hosted Approach: Meta's Wit.ai
+For the hosted approach, I used Meta's Wit.ai platform. This service processes the audio input and returns the transcribed text. The average latency observed was around 400 milliseconds, making it suitable for real-time applications in VR.
+
+#### Local Approach: OpenAI's Whisper Model
+For the local approach, I ran the Whisper model directly on the Meta Quest 3. The Whisper Tiny model took approximately 19600 milliseconds (about 20 seconds) to process the audio, while the Tiny-En model took around 23500 milliseconds. Running these models locally caused significant hardware heating, indicating the intensive computational requirements.
+
+### Results and Analysis
+Here's a visual comparison of the latency for each method:
+
+<div style="text-align:center">
+  <img src="/assets/images/meta-quest/latency_comparison.png" alt="MPC basic diagram" style="width:70%; height:auto;">
+</div>
+
+The graph clearly shows that Meta's Wit.ai platform significantly outperforms local inference in terms of latency. While the hosted solution provides near real-time performance, the local approach is much slower and less practical for real-time applications in VR.
+
+### Practical Considerations
+1. **Real-Time Performance**: For applications requiring real-time interaction, hosted solutions like Wit.ai are preferable due to their low latency.
+2. **Hardware Constraints**: Running intensive models like Whisper locally can cause hardware to overheat, which is a critical consideration for prolonged use in VR environments.
+3. **Privacy and Security**: Local inference offers better privacy as data does not leave the device, which might be important for applications handling sensitive information.
+
+### Conclusion
+The experiment underscores the trade-offs between local and hosted speech-to-text solutions on the Meta Quest 3. While hosted services like Meta's Wit.ai offer superior real-time performance, local inference with models like Whisper is currently impractical for real-time applications due to high latency and hardware constraints.
+
+### Future Directions
+Moving forward, optimizing models for local inference on VR hardware and exploring hybrid approaches that balance latency, performance, and privacy could be key areas of development.
+
+### GitHub Repository
+For those interested in exploring further, the project's code and details are available on GitHub: [https://github.com/saurabhchalke/whisper-meta-quest](https://github.com/saurabhchalke/whisper-meta-quest)
+
+### Final Thoughts
+Speech-to-text technology in VR holds immense potential, and continuous advancements in both hardware and software will likely bridge the current gaps. I'm excited to see how this field evolves and to contribute to its growth.
+
+Feel free to reach out with any questions or thoughts on this experiment!
