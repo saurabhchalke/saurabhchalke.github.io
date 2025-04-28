@@ -6,10 +6,6 @@ categories: [Aerospace, Defense, Stratosphere, Innovation]
 published: true
 ---
 
-# SpaceX for the Stratosphere
-
-*April 29, 2025*
-
 This is a letter to my future self, a time capsule to open in 2030 to see how much of this wild vision I’ve pulled off. I’m inspired by Sam Altman’s [2014 blog post on AI](https://blog.samaltman.com/ai), written two years before he co-founded [OpenAI](https://openai.com) with deep conviction that artificial general intelligence was possible. Like Sam, I’m betting on a future that sounds a bit crazy today but feels inevitable if you squint. Here’s my take: autonomous systems will redefine defense, and in a decade, tanks, aircraft carriers, and infantry might be as outdated as cavalry charges. The future belongs to AI-driven defense systems running the show, starting with stratospheric platforms that could change everything.
 
 ## The Balloon That Broke the Camel’s Back
