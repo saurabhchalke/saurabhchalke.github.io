@@ -14,7 +14,7 @@ Let’s start with a story that’s equal parts absurd and revealing. In [2023](
 
 But here’s the thing: that balloon was the dumbest version of this tech, the worst it’ll ever be. Compare that to Google’s [Project Loon](https://en.wikipedia.org/wiki/Loon_(company)), one of the boldest moonshots ever. Loon aimed to beam internet to underserved regions like rural Africa using high-altitude balloons. It “failed” in that it didn’t become a commercial giant, but calling it a failure is like saying the Apollo program flopped because we don’t commute to the moon. Loon was a $500 million masterclass in stratospheric tech. They cracked station-keeping, keeping a swarm of balloons in place for months, not hours, by leveraging weather modeling and wind data. With recent leaps in atmospheric modeling (like Google’s [GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)), driving a fleet of these “atmospheric satellites” is getting cheaper than a Netflix subscription.
 
-Loon’s dual-balloon system, using helium for lift and clever altitude control, was a great start. We’re planning something even better, miniaturized next-gen designs that make their setup look like a Model T. But they nailed the fundamentals, and we’re building on their work.
+Loon’s dual-balloon system, using helium for lift and clever altitude control, was a great start. We’re developing something even better, miniaturized next-gen designs that make their setup look like a Model T. But they nailed the fundamentals, and we’re building on their work.
 
 ## Beyond the Battlefield: Why This Matters
 
