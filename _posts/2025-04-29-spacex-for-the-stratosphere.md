@@ -18,7 +18,7 @@ Loon’s dual-balloon system, using helium for lift and clever altitude control,
 
 ## Beyond the Battlefield: Why This Matters
 
-Enough about military applications (though the dual-use potential is why our startup is staying quiet for now). What gets me excited is the chance to impact millions of lives through science and earth monitoring. These atmospheric satellites aren’t just defense tools; they’re game-changers for humanity. Unlike traditional satellites, which capture a region once a day, or drones, which run out of juice after a few hours, our platforms loiter in the stratosphere for weeks, offering high-resolution, persistent coverage at a fraction of the cost.
+Enough about military applications (though the dual-use potential is why our startup is staying quiet for now). What gets me excited is the chance to impact millions of lives through scientific research and earth observation. These atmospheric satellites aren’t just defense tools; they’re game-changers for humanity. Unlike traditional satellites, which capture a region once a day, or drones, which run out of juice after a few hours, our platforms loiter in the stratosphere for weeks, offering high-resolution, persistent coverage at a fraction of the cost.
 
 Imagine the possibilities:
 - **Hyperspectral imaging** for precision agriculture, helping farmers optimize crops.
