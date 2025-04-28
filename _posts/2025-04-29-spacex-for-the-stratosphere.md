@@ -32,7 +32,7 @@ The real magic? These systems have network effects. One balloon is neat; a const
 
 ## Chalke Industries: A Family Affair
 
-Our startup, [Chalke Industries](https://chalke-industries.vercel.app) (checkout the website for some more info), is under wraps for now, like a dish still cooking. We’ll go public soon with fundraising details, but unlike my other projects, this one won’t be open source. The dual-use nature means we’re keeping things close to avoid misuse by folks with less-than-noble intentions.
+Our startup, [Chalke Industries](https://chalkeindustries.com) (check out the website for some more info), is under wraps for now, like a dish still cooking. We’ll go public soon with fundraising details, but unlike my other projects, this one won’t be open source. The dual-use nature means we’re keeping things close to avoid misuse by folks with less-than-noble intentions.
 
 Naming it “Chalke” wasn’t my first choice. I wanted “Vyom,” Sanskrit for sky, partly because it nods to [*Captain Vyom*](https://en.wikipedia.org/wiki/Captain_Vyom), a gloriously cheesy Indian sci-fi show from my childhood, and partly because using my family name felt a bit self-absorbed. But my co-founder, my brother Rushabh, who’s sharper at business and people than I’ll ever be, convinced me. He noted that defense giants like [Lockheed Martin](https://www.lockheedmartin.com), [Raytheon](https://www.rtx.com), and [Dassault](https://www.dassault-aviation.com) wear their family names proudly. A name ties the tech to people you can trust, someone accountable. Plus, it’s a subtle nod to [Stark Industries](https://marvel.fandom.com/wiki/Stark_Industries), which is undeniably cool. So, Chalke it is.
 
@@ -42,6 +42,6 @@ If you’re still here, thanks for sticking with me. In five years, I’ll look 
 
 <!-- open-in-2030-04-29 -->
 
-If you’re as pumped about this as I am, we’re hiring ambitious engineers in aerospace, electronics, and materials science at [Chalke Industries](https://chalke-industries.vercel.app). This could be the most meaningful thing you work on. If we get it right, it might be one of India’s greatest engineering feats, a multi-billion-dollar exit that’s not even in my top ten goals. I’m not here to chase billions; I’m here to solve hard problems. But as [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch) says, “All evils are due to insufficient knowledge.” Capitalism’s a tool, and if a few billion bucks let us reinvest in big scientific swings, that’s a net positive.
+If you’re as pumped about this as I am, we’re hiring ambitious engineers in aerospace, electronics, and materials science at [Chalke Industries](https://chalkeindustries.com). This could be the most meaningful thing you work on. If we get it right, it might be one of India’s greatest engineering feats, a multi-billion-dollar exit that’s not even in my top ten goals. I’m not here to chase billions; I’m here to solve hard problems. But as [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch) says, “All evils are due to insufficient knowledge.” Capitalism’s a tool, and if a few billion bucks let us reinvest in big scientific swings, that’s a net positive.
 
 Here’s to building the stratosphere’s SpaceX and not messing it up.
