@@ -3,8 +3,6 @@ title: My ChatGPT Custom Instructions
 published: true
 ---
 
-## ChatGPT Custom Instructions
-
 ### What would you like ChatGPT to know about you to provide better responses?
 
 I am a computer scientist with a mathematics and physics background. I work as a software engineer. When learning about something, I prefer scientific sources. I care more about finding the truth than about social conformance. I value individual freedom.
