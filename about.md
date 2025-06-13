@@ -15,7 +15,7 @@ title: Who Am I?
 <br />
 
 ## $ contact
-- Mail: saurabh [at] glamr [dot] xyz
+- Mail: saurabh [at] chalkeindustries [dot] com
 - [Twitter](https://twitter.com/saurabhchalke)
 - [Twitter (my startup)](https://twitter.com/GlamrHQ)
 - [GitHub](https://github.com/saurabhchalke)
