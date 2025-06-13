@@ -17,6 +17,5 @@ title: Who Am I?
 ## $ contact
 - Mail: saurabh [at] chalkeindustries [dot] com
 - [Twitter](https://twitter.com/saurabhchalke)
-- [Twitter (my startup)](https://twitter.com/GlamrHQ)
 - [GitHub](https://github.com/saurabhchalke)
 - [LinkedIn](https://www.linkedin.com/in/saurabhchalke/)
