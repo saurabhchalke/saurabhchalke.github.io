@@ -21,12 +21,13 @@ Loon’s dual-balloon system, using helium for lift and clever altitude control,
 Enough about military applications (though the dual-use potential is why our startup is staying quiet for now). What gets me excited is the chance to impact millions of lives through scientific research and earth observation. These atmospheric satellites aren’t just defense tools; they’re game-changers for humanity. Unlike traditional satellites, which capture a region once a day, or drones, which run out of juice after a few hours, our platforms loiter in the stratosphere for weeks, offering high-resolution, persistent coverage at a fraction of the cost.
 
 Imagine the possibilities:
-- **Hyperspectral imaging** for precision agriculture, helping farmers optimize crops.
-- **Greenhouse gas and VOC monitoring**, holding oil companies accountable for emissions.
-- **Geoengineering** to fight [climate change](https://en.wikipedia.org/wiki/Climate_change) by working with the upper atmosphere.
 - **Air quality tracking** to protect public health.
-- **Disaster management**, providing real-time data for recovery.
-- **High-speed internet relays**, connecting underserved regions to the digital world.
+- **Greenhouse gas and VOC monitoring**, holding oil companies accountable for emissions.
+- **Monsoon prediction** for high resolution extreme weather nowcasting.
+- **Disaster management**, providing real-time data for recovery from cyclones, floods, etc.
+- **High-speed IoT relays**, connecting underserved regions to the digital world.
+- **Hyperspectral imaging** for precision agriculture, helping farmers optimize crops.
+- **Geoengineering** to fight [climate change](https://en.wikipedia.org/wiki/Climate_change) by working with the upper atmosphere.
 
 The real magic? These systems have network effects. One balloon is neat; a constellation of thousands, autonomously crisscrossing the globe for months, is a revolution. The more we deploy, the better the data, the smarter the system, the bigger the impact. Think [SpaceX](https://www.spacex.com), but for the stratosphere.
 
