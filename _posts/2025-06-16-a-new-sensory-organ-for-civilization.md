@@ -34,7 +34,7 @@ So the market does what it always does with [externalities](https://en.wikipedia
 
 ## "The Moonshot"
 
-We’re building a real-time, adaptive, autonomous sensing network for the lower atmosphere. Think small, quiet balloons that drift above cities, packed with low-cost, high-resolution sensors.
+We’re building a real-time, autonomous sensing network for the lower atmosphere. Think small, quiet balloons that drift above cities, packed with low-cost, high-resolution sensors.
 
 They move. They learn. They talk to each other. They act like a [swarm](https://en.wikipedia.org/wiki/Swarm_robotics).
 
