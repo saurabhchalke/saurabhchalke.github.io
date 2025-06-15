@@ -32,7 +32,7 @@ This isn’t a sexy problem. There’s no consumer hook. No 10x photo filter. No
 
 So the market does what it always does with [externalities](https://en.wikipedia.org/wiki/Externality). It looks away.
 
-## The Moonshot
+## "The Moonshot"
 
 We’re building a real-time, adaptive, autonomous sensing network for the lower atmosphere. Think small, quiet balloons that drift above cities, packed with low-cost, high-resolution sensors.
 
