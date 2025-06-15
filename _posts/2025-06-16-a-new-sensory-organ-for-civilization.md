@@ -14,7 +14,7 @@ And somehow, this doesn’t seem to be anyone’s fault.
 
 ## The numbers that keep me up
 
-1.6 million people died from air pollution in India in a single year. That’s 190 people every hour. Almost 5,000 every day.  [Source: Lancet, 2021](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196\(2030298-9/fulltext)
+1.6 million people died from air pollution in India in a single year. That’s 190 people every hour. Almost 5,000 every day.  [Source: Lancet, 2021](<https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(2030298-9/fulltext>)
 
 It’s not just about death. It’s about the years of life lost. In 2017, India lost nearly 39 million [DALYs](https://en.wikipedia.org/wiki/Disability-adjusted_life_year) to air pollution. That’s 8 percent of the total national disease burden.
 
@@ -69,6 +69,8 @@ To make the invisible, finally visible.
 - People who care more about impact than prestige
 
 We’re not building an app. We’re building something closer to a new organ for civilization. One that senses the air around us, learns from it, and helps us act on it.
+
+If you’re excited about this, if you want to help build the future of Atmospheric Intelligence (AI for the sky), shoot me an email at hello [at] chalkeindustries [dot] com.
 
 If this works, it changes everything.
 
