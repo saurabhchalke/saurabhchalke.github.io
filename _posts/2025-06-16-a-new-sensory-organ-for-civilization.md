@@ -76,4 +76,4 @@ If this works, it changes everything.
 
 If we don’t build it, I’m not sure anyone else will.
 
-Let’s go.
+LFG.
