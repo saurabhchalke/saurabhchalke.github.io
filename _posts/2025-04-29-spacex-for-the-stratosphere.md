@@ -37,6 +37,8 @@ Our startup, [Chalke Industries](https://chalkeindustries.com) (check out the we
 
 Naming it “Chalke” wasn’t my first choice. I wanted “Vyom,” Sanskrit for sky, partly because it nods to [*Captain Vyom*](https://en.wikipedia.org/wiki/Captain_Vyom), a gloriously cheesy Indian sci-fi show from my childhood, and partly because using my family name felt a bit self-absorbed. But my co-founder, my brother Rushabh, who’s sharper at business and people than I’ll ever be, convinced me. He noted that defense giants like [Lockheed Martin](https://www.lockheedmartin.com), [Raytheon](https://www.rtx.com), and [Dassault](https://www.dassault-aviation.com) wear their family names proudly. A name ties the tech to people you can trust, someone accountable. Plus, it’s a subtle nod to [Stark Industries](https://marvel.fandom.com/wiki/Stark_Industries), which is undeniably cool. So, Chalke it is.
 
+> Edit: We've come to realize that the name "Chalke" felt too self-referential and not as evocative as we initially thought. We've rebranded it to [Thinking Balloon](https://thinkingballoon.com)!
+
 ## A Nod to the Future (and a Call to Arms)
 
 If you’re still here, thanks for sticking with me. In five years, I’ll look back to see if we’ve made this atmospheric satellite constellation real or at least gotten close.
