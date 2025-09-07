@@ -85,7 +85,7 @@ If you are interested in what we're building here, please feel free to reach out
 
 We are very much still in the first innings, but as a deep‑tech startup, one of the biggest risks we face is that the underlying tech is so hard the product never gets built. I feel fortunate to have de‑risked this core technical risk, and I’m excited to see where this goes. We are still a long way from being “production‑ready,” but we have a lot of confidence that we will get there.
 
-Our balloons operate in the stratosphere, brutal territory with −80 °C temperatures, violent daily heating and cooling, and 100+ mph wind shears near the tropopause that can shred the balloon envelope. It’s a hard place to run anything in production.
+Our balloons operate in the stratosphere, brutal territory with −80 °C temperatures, violent daily heating and cooling, and 150+ kmph wind shears near the tropopause that can shred the balloon envelope. It’s a hard place to run anything in production.
 
 Our edge comes from long duration and ultra‑low cost. With appropriate safeguards, we aim to operate large fleets at a fraction of the cost of traditional weather satellites. The data we collect can help improve AI weather models which, in some settings, are beginning to outperform today’s best supercomputer forecasts. Coverage in data‑sparse regions may be especially useful.
 
