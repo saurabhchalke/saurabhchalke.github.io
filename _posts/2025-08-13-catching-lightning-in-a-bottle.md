@@ -13,6 +13,10 @@ There are only a few moments when you know, while it’s happening, that you’r
   <img src="{{ '/assets/images/catching-lightning-in-a-bottle/latest-launch.jpeg' | relative_url }}" alt="Latest launch of our high-altitude balloon system" style="width:80%; height:auto;">
 </p>
 
+<p style="text-align:center; margin: 0.25rem 0 1rem;">
+  <a href="https://youtu.be/M6fSuUqmJyI" target="_blank" rel="noopener" style="font-size:0.9em;">Watch the launch video</a>
+</p>
+
 This isn’t a polished write‑up; it’s a quick attempt to capture the ideas while they’re still warm.
 
 ### Progress Isn’t Linear
