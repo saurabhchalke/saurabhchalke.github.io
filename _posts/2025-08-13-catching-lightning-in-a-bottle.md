@@ -37,17 +37,13 @@ Truth‑seeking (which might as well be a synonym for science) is a painful but 
 When referring to the success of our latest launch test, I like to say breakthroughs, but it has been a series of smaller multidisciplinary breakthroughs in hardware, materials science, and flight autonomy software, each one building on the last.
 
 I feel extremely proud of the tech the team has pioneered (and I’m optimistic about pushing it much further). Our current prototype system now weighs less than a kilogram. It surprises me (even as I type this) how much we've managed to miniaturize the hardware.
-As much as I'd love to get into the technical details, we're embargoing a lot of our secret sauce until peer review (& patent filings).
+As much as I'd love to get into the technical details, we're embargoing a lot of our secret sauce until peer review (and patent filings).
+
+### Why This Matters
 
 > “Don’t fight the business equivalent of the laws of physics.” - Sam Altman
 
 It's easy to get nerd‑sniped by interesting puzzles and lose sight of the bigger picture. I’ve been guilty of this many times, and I probably will be again. But if there is one important “business lesson” I’ve internalized, it’s that you create real value by doing useful things people want (time saved, money earned, risk reduced, capability unlocked) and doing them at scale. You could even make a 2×2 of useful vs. not useful, and scalable vs. not scalable, and you’ll see the most valuable companies in the top‑left quadrant.
-
-### Why This Matters
-
-Beyond the technology, the point is public benefit: better climate resilience, fairer and more reliable energy, safer skies, cleaner air, and more equitable access to forecasting. We design with safety, environmental responsibility, and privacy in mind, and we welcome scrutiny, collaboration, and feedback from the communities we hope to serve.
-
-One imperfect mental model is a 2×2 of scale and direct societal usefulness; reasonable people will disagree on the placements:
 
 |                     | **High scale**                                                                                                                                                  | **Low scale**                                                                                                                                                  |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
