@@ -1,7 +1,7 @@
 ---
 title: "Catching Lightning in a Bottle"
 layout: post
-date: 2025-08-13
+date: 2025-09-07
 categories: [Weather, Energy, Innovation, Sustainability]
 published: true
 ---
