@@ -32,8 +32,8 @@ Truth‑seeking (which might as well be a synonym for science) is a painful but 
 
 When referring to the success of our latest launch test, I like to say breakthroughs, but it has been a series of smaller multidisciplinary breakthroughs in hardware, materials science, and flight autonomy software, each one building on the last.
 
-I feel extremely proud of the tech the team has pioneered (and I’m optimistic about pushing it much further). Our current prototype system now weighs less than half a kilogram. It surprises me (even as I type this) how much we've managed to miniaturize the hardware.
-As much as I'd love to get into the technical details, we're embargoing a lot of our secret sauce until peer review & patent filings.
+I feel extremely proud of the tech the team has pioneered (and I’m optimistic about pushing it much further). Our current prototype system now weighs less than a kilogram. It surprises me (even as I type this) how much we've managed to miniaturize the hardware.
+As much as I'd love to get into the technical details, we're embargoing a lot of our secret sauce until peer review (& patent filings).
 
 > “Don’t fight the business equivalent of the laws of physics.” - Sam Altman
 
@@ -48,9 +48,9 @@ One imperfect mental model is a 2×2 of scale and direct societal usefulness; re
 |                     | **High scale**                                                                                                                                                  | **Low scale**                                                                                                                                                  |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **High usefulness** | Space; AI; Chips; Clean Energy; Vaccines. | Therapies for rare diseases; traditional higher‑ed; libraries & cafes. |
-| **Lower urgency**   | Modern social media; video games; cannabis; fast fashion.                     | Certain corners of high‑frequency finance; speculative crypto; rent‑seeking. |
+| **Lower usefulness**   | Modern social media; video games; cannabis; fast fashion.                     | Certain corners of high‑frequency finance; speculative crypto; rent‑seeking. |
 
-Seen this way, it can feel discouraging to watch so much talent flow to low‑leverage problems, but reasonable people value different things. There are many urgent problems to solve, and in my view deep‑tech startups are one powerful way to tackle them.
+Seen this way, it can feel discouraging to watch so many smart people chase things that aren't very useful for the world. There are many urgent problems to solve, and in my view deep‑tech startups are one powerful way to tackle them.
 
 The [efficient market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) is often overstated and misapplied. Believing it too literally has pulled a lot of smart people into Wall Street and ad tech, but I know firsthand[^2] there’s still plenty of zero‑to‑one[^3] value in the physical world, and when you unlock it, society tends to make room for it.
 
