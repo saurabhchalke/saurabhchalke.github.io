@@ -2,12 +2,12 @@
 title: "Catching Lightning in a Bottle"
 layout: post
 date: 2025-08-13
-categories: [Energy, Innovation, Sustainability]
+categories: [Weather, Energy, Innovation, Sustainability]
 published: true
 ---
 
-I can think of only a few moments when you know—while it’s happening—that you were in the room for a real breakthrough. It doesn’t happen every day. This week felt like our small “Trinity Test.” I want to capture a few thoughts while they’re still fresh.
-> TL;DR: we can precisely control our high‑altitude balloons—hold altitude and autonomously steer to a target location. They survive for months and collect roughly 1,000× more data than the state of the art, at lower cost and higher resolution than satellites or drones.
+There are only a few moments when you know—while it’s happening—that you’re in the room for something that might be a real breakthrough. It doesn’t happen every day. This week felt like a small milestone for us—quiet, but important. I want to capture a few thoughts while they’re still fresh.
+> TL;DR: in tests, we can reliably control our high‑altitude balloons—hold altitude and autonomously steer to a target location. Early results suggest they can survive for months and collect on the order of 1,000× more data than many current systems, at lower cost and higher resolution than satellites or drones. These claims are still being validated through ongoing testing.
 
 <p style="text-align:center">
   <img src="{{ '/assets/images/catching-lightning-in-a-bottle/latest-launch.jpeg' | relative_url }}" alt="Latest launch of our high-altitude balloon system" style="width:80%; height:auto;">
@@ -39,22 +39,28 @@ As much as I'd love to get into the technical details, we're embargoing a lot of
 
 It's easy to get nerd‑sniped by interesting puzzles and lose sight of the bigger picture. I’ve been guilty of this many times, and I probably will be again. But if there is one important “business lesson” I’ve internalized, it’s that you create real value by doing useful things people want (time saved, money earned, risk reduced, capability unlocked) and doing them at scale. You could even make a 2×2 of useful vs. not useful, and scalable vs. not scalable, and you’ll see the most valuable companies in the top‑left quadrant.
 
+### Why This Matters
+
+Beyond the technology, the point is public benefit: better climate resilience, fairer and more reliable energy, safer skies, cleaner air, and more equitable access to forecasting. We design with safety, environmental responsibility, and privacy in mind, and we welcome scrutiny, collaboration, and feedback from the communities we hope to serve.
+
+One imperfect mental model is a 2×2 of scale and direct societal usefulness—reasonable people will disagree on the placements:
+
 |                     | **High scale**                                                                                                                                                  | **Low scale**                                                                                                                                                  |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **High usefulness** | Space; AI; Chips; Clean Energy; Vaccines. | Therapies for rare diseases; traditional higher-ed; libraries & cafes. |
-| **Low usefulness**  | Modern social media; video games; cannabis; fast fashion.                     | Wall Street finance; Ponzi schemes/crypto; rent-seeking.                   |
+| **High usefulness** | Space; AI; Chips; Clean Energy; Vaccines. | Therapies for rare diseases; traditional higher‑ed; libraries & cafes. |
+| **Lower urgency**   | Modern social media; video games; cannabis; fast fashion.                     | Certain corners of high‑frequency finance; speculative crypto; rent‑seeking. |
 
-When you see it this way, it’s a little sad to watch so many smart people spend time on things that aren’t very useful to the world. There are so many problems to solve, and in my opinion deep‑tech startups are one of the best tools we have to tackle them.
+Seen this way, it's a a little sad to watch so many smart people chase things that aren't very useful for the world. There are so many urgent problems to solve, and in my view deep‑tech startups are one powerful way to tackle them.
 
-The [efficient market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) is a lie. Believing it has pulled a lot of smart people into Wall Street and ad tech, but I know firsthand[^2] there’s still a lot of zero‑to‑one[^3] value waiting in the physical world—and the modern world tends to hand you carte blanche if you can unlock it.
+The [efficient market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) is often overstated and misapplied. Believing it too literally has pulled a lot of smart people into Wall Street and ad tech, but I know firsthand[^2] there’s still plenty of zero‑to‑one[^3] value in the physical world—and when you unlock it, society tends to make room for it.
 
 This was a long‑winded way to say we’re building future physical infrastructure aimed at being maximally useful and maximally scalable.
 
-### Problems We Solve
+### Problems We’re Focused On
 
-Some concrete billion‑dollar problems our systems uniquely solve:
+Some concrete problems our systems aim to help with:
 
-- India launches just 39 [radiosondes](https://en.wikipedia.org/wiki/Radiosonde) a day; they’re expensive and single‑use. They go up for a few hours, then come down. We’re building a system that can stay aloft for months and capture roughly 1,000× more data than the state of the art, beating satellites and drones on both cost and resolution.
+- India launches just 39 [radiosondes](https://en.wikipedia.org/wiki/Radiosonde) a day; they’re expensive and single‑use. They go up for a few hours, then come down. We’re building a system that can stay aloft for months and, in specific contexts, capture roughly 1,000× more data than the state of the art, while beating satellites and drones on cost and resolution.
 - Renewable production is intermittent and unpredictable, and generators face fines for missing delivery windows. We’re building systems that predict production and consumption in real time and help balance the grid.
 - Air pollution is a huge problem in India. Current air quality models need boundary-layer height and vertical chemistry; surface-only networks can’t capture mixing heights/ozone lofting.
 - Many aerospace and aviation companies struggle with modeling the upper atmosphere because there’s almost no data in the stratosphere.
@@ -77,7 +83,7 @@ We are very much still in the first innings, but as a deep‑tech startup, one o
 
 Our balloons operate in the stratosphere—brutal territory with −80 °C temperatures, violent daily heating and cooling, and 100+ mph wind shears near the tropopause that can shred the balloon envelope. It’s a hard place to run anything in production.
 
-Our edge comes from long duration and ultra‑low cost. We can keep thousands aloft for roughly a tenth the price of one weather satellite. Our unique data will soon feed AI models that already outperform today’s best supercomputer forecasts, and because we’re covering places nobody else measures, that advantage will compound.
+Our edge comes from long duration and ultra‑low cost. With appropriate safeguards, we aim to operate large fleets at a fraction of the cost of traditional weather satellites. The data we collect can help improve AI weather models which, in some settings, are beginning to outperform today’s best supercomputer forecasts. Coverage in data‑sparse regions may be especially useful.
 
 ### Rebrand
 
@@ -90,6 +96,8 @@ P.S. Speaking of rebranding, I wasn’t a big fan of our previous name, and the 
 </p>
 
 (One of my primary personal criteria for the name was: if Richard Feynman were alive today, would he put our sticker on his laptop? I like to think he would.)
+
+We don’t have all the answers, and we’ll make mistakes. If you see blind spots—technical, ethical, or otherwise—I’d love to hear from you.
 
 ### Footnotes
 
