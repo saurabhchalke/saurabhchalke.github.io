@@ -7,7 +7,7 @@ published: true
 ---
 
 There are only a few moments when you know, while it’s happening, that you’re in the room for something that might be a real breakthrough. It doesn’t happen every day. This week felt like a small milestone for us, quiet but important. I want to capture a few thoughts while they’re still fresh.
-> TL;DR: in tests, we can reliably control our high‑altitude balloons, hold altitude, and autonomously steer to a target location. Early results suggest they can survive for months and collect on the order of 1,000× more data than many current systems, at lower cost and higher resolution than satellites or drones. These claims are still being validated through ongoing testing.
+> TL;DR: in tests, we can reliably control our high‑altitude balloons, hold altitude, and autonomously steer to a target location. Early results suggest they can survive for months and collect on the order of 1,000× more data than many current systems, at lower cost and higher resolution than satellites or drones.
 
 <p style="text-align:center">
   <img src="{{ '/assets/images/catching-lightning-in-a-bottle/latest-launch.jpeg' | relative_url }}" alt="Latest launch of our high-altitude balloon system" style="width:80%; height:auto;">
