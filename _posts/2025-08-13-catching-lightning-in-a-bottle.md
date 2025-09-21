@@ -95,7 +95,7 @@ P.S. Speaking of rebranding, I wasn’t a big fan of our previous name, and the 
   <img src="{{ '/assets/images/catching-lightning-in-a-bottle/logo.png' | relative_url }}" alt="Thinking Balloon Logo" style="width:120px; height:auto; float:left; margin: 0 0.75rem 0.5rem 0;">
 </p>
 
-(One of my primary personal criteria for the name was: if Richard Feynman were alive today, would he put our sticker on his laptop? I like to think he would.)
+(One of my primary personal criteria for the name was: if Richard Feynman were alive today, would he put our sticker on his laptop? I like to think he would[^6].)
 
 We don’t have all the answers, and we’ll make mistakes. If you see blind spots, technical, ethical, or otherwise, I’d love to hear from you.
 
@@ -110,3 +110,5 @@ We don’t have all the answers, and we’ll make mistakes. If you see blind spo
 [^4]: Much of quantum computing is hype, but if there’s one near‑term payoff, it’s materials simulation: discovering new materials that could dramatically improve battery technology.
 
 [^5]: Helium is non‑renewable and reserves are shrinking. We plan to move to hydrogen in the medium term, but it’s not as easy as it sounds and there are many challenges. If fusion arrives sooner than expected, helium becomes a byproduct, so long‑term shortages likely ease.
+
+[^6]: Richard Feynman actually worked at a company called Thinking Machines Corporation in the 1980s, which built some of the first parallel supercomputers. I would be lying to not acknowledge that Thinking Machines was an inspiration for our name.
