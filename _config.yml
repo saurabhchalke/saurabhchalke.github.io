@@ -2,8 +2,8 @@ title: Saurabh Chalke's home on the Internet
 description: "Hello! I'm Saurabh Chalke, your friendly neighborhood cypherpunk."
 author:
   name: "Saurabh Chalke"
-  email: "saurabh@zkHub.dev"
-  url: "https://chalke.xyz/"
+  email: "saurabh@thinkingballoon.com"
+  url: "https://saurabhchalke.com/"
 
 baseurl: /
 
@@ -31,4 +31,4 @@ plugins:
 
 # Custom variables
 owner : "Saurabh Chalke"
-year : "2023"
+year : "2026"
