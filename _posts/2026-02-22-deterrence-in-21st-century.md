@@ -43,9 +43,9 @@ This isn't meant to be moralistic. It's a living document I'll keep updating as 
    - Military tech consistently spills into civilian life. The [Internet](https://en.wikipedia.org/wiki/ARPANET), [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System), rockets. A lot of what we're building will find commercial applications within a few years.
    - Liberal democracies have market-oriented economies. Authoritarian regimes favor central planning. That structural difference naturally produces more defense tech startups on our side.
 
-9. One question I keep returning to: is a private limited company the right structure for a defense tech startup in India? I'm not sure pure profit maximization avoids the negative externalities that come with building weapons. Something like a [Public Benefit Corporation](https://en.wikipedia.org/wiki/Benefit_corporation) that formally indexes on mission alongside revenue might be a better fit.
+9. One question I keep returning to: is a private limited company the right structure for a defense tech startup in India? I'm not sure pure profit maximization avoids the negative externalities that come with building defense tech. Something like a [Public Benefit Corporation](https://en.wikipedia.org/wiki/Benefit_corporation) that formally indexes on mission alongside revenue might be a better fit.
 
-10. The largest question I've been sitting with for years: do we live in a world that structurally favors offense over defense? It is easier to build a weapon of mass destruction than to build a defense against one. If that's permanently true, we're in trouble. But I think we can build systems that maintain the [offense-defense balance](https://en.wikipedia.org/wiki/Offense%E2%80%93defense_theory). It's worth being delusionally optimistic here.
+10. The largest question I've been sitting with for years: do we live in a world that structurally favors offense over defense? It is easier to build a weapon of mass destruction than to build a defense against one. If that's permanently true, we're doomed. But I think we can build systems that maintain the [offense-defense balance](https://en.wikipedia.org/wiki/Offense%E2%80%93defense_theory). It's worth being delusionally optimistic here.
 
 ### Footnotes
 
