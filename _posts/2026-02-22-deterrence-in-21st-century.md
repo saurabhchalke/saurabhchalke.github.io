@@ -30,7 +30,7 @@ This isn't meant to be moralistic. It's a living document I'll keep updating as 
 
 3. Reducing system complexity is the key unlock, and it comes from two moves: cut the number of components, and cut the number of exotic components that require specialized factories to make.[^1]
 
-4. Most of what modern defense systems need already exists in commercial tech: face recognition algorithms in Snapchat, miniaturized electronics, cheap sensors in iPhones. A team of good software engineers can build precise, cheap systems that outperform legacy hardware that cost billions.
+4. Most of what modern defense systems need already exists in commercial tech. For example: face recognition algorithms in Snapchat, miniaturized electronics, cheap sensors in iPhones. A team of good software engineers can build precise, cheap systems that outperform legacy hardware that cost billions.
 
 5. We will soon have surveillance at a scale and efficiency never seen before. I'm not sure our existing laws and institutions are ready for the edge cases that come with it. We need to educate lawmakers carefully. I hope we can play a small role in helping legislatures and military institutions navigate this well.
 
