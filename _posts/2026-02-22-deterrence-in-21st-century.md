@@ -1,7 +1,7 @@
 ---
 title: "Deterrence in the 21st Century"
 layout: post
-date: 2025-04-29
+date: 2026-02-22
 categories: [Aerospace, Defense, Game Theory, Musings]
 published: true
 ---
