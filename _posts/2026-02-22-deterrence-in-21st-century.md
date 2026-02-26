@@ -10,7 +10,7 @@ There's a poignant section in Feynman's memoirs, [Surely You're Joking, Mr. Feyn
 
 I was a committed pacifist in my early 20s. I viewed defense companies as war-profiteering machinery that maximized global conflict.
 
-That changed with [Russia's invasion of Ukraine in 2022](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine). It made me realize diplomacy alone might not be enough for liberal democracies to stand up to authoritarian regimes. Watching Ukraine arm itself and fight back against a giant who expected a quick crushing victory was eye-opening. It was also the first time we saw [drone warfare](https://en.wikipedia.org/wiki/Use_of_drones_in_the_Russo-Ukrainian_War) take center stage in a real conflict.
+That changed with [Russia's invasion of Ukraine in 2022](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine). It made me realize diplomacy alone might not be enough for liberal democracies to stand up to authoritarian regimes. Watching Ukraine arm itself and fight back against a giant who expected a quick crushing victory was eye-opening. It was also the first time we saw [drone warfare](https://en.wikipedia.org/wiki/Aerial_warfare_in_the_Russo-Ukrainian_war) take center stage in a real conflict.
 
 What sealed it for me was the [2025 India-Pakistan conflict](https://en.wikipedia.org/wiki/2025_India%E2%80%93Pakistan_conflict), the first time both nations deployed autonomous systems against each other.
 
@@ -40,12 +40,12 @@ This isn't meant to be moralistic. It's a living document I'll keep updating as 
 
 8. Privatizing defense tech is broadly good. Market incentives are a major structural advantage liberal democracies hold for three reasons:
    - Legacy defense tech was built by large, bloated organizations with no incentive to move fast or keep costs down. This is largely a product of [cost-plus contracting](https://en.wikipedia.org/wiki/Cost-plus_contract). A startup has a structural edge over prime contractors, if nothing else, by saving taxpayers money.
-   - Military tech consistently spills into civilian life. The [Internet](https://en.wikipedia.org/wiki/ARPANET), [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System), rockets. A lot of what we're building will find commercial applications within a few years.
+   - Military tech consistently spills into civilian life. The [Internet](https://en.wikipedia.org/wiki/ARPANET), [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System), [Rockets](https://en.wikipedia.org/wiki/Spacecraft_propulsion). A lot of what we're building will find commercial applications within a few years.
    - Liberal democracies have market-oriented economies. Authoritarian regimes favor central planning. That structural difference naturally produces more defense tech startups on our side.
 
 9. One question I keep returning to: is a private limited company the right structure for a defense tech startup in India? I'm not sure pure profit maximization avoids the negative externalities that come with building defense tech. Something like a [Public Benefit Corporation](https://en.wikipedia.org/wiki/Benefit_corporation) that formally indexes on mission alongside revenue might be a better fit.
 
-10. The largest question I've been sitting with for years: do we live in a world that structurally favors offense over defense? It is easier to build a weapon of mass destruction than to build a defense against one. If that's permanently true, we're doomed. But I think we can build systems that maintain the [offense-defense balance](https://en.wikipedia.org/wiki/Offense%E2%80%93defense_theory). It's worth being delusionally optimistic here.
+10. The largest question I've been sitting with for years: do we live in a world that structurally favors offense over defense? It is easier to build a weapon of mass destruction than to build a defense against one. If that's permanently true, we're doomed. But I think we can build systems that maintain the [offense-defense balance](https://www.jstor.org/stable/2539240). It's worth being delusionally optimistic here.
 
 ### Footnotes
 
