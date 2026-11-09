@@ -24,6 +24,10 @@ defaults:
       layout: "post"
 
 future: true
+
+# Agent guidance; not part of the site.
+exclude:
+  - AGENTS.md
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate

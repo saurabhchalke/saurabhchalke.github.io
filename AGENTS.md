@@ -26,7 +26,7 @@ The personal blog and homepage of Saurabh Chalke (co-founder of [Thinking Balloo
 | `_layouts/default.html` | Page shell, pagination, footer, analytics include. |
 | `_layouts/post.html` | Renders the post title as `<h2>`, then the date, then the content. |
 | `_layouts/page.html` | Static pages (about, archive, pgp). |
-| `_includes/head.html` | `<title>`, stylesheet, feed link, `{% seo %}`. |
+| `_includes/head.html` | `<title>`, stylesheet, feed link, and the jekyll-seo-tag `seo` tag. |
 | `_includes/header.html` | Terminal-style site header (`SaurabhChalke@home:~$`). |
 | `_includes/links.html` | Nav links: whoami, blog, pgp, rss. |
 | `_includes/footer.html` | Owner name and current year. |
@@ -71,7 +71,8 @@ The personal blog and homepage of Saurabh Chalke (co-founder of [Thinking Balloo
 - Link generously and inline to primary sources and Wikipedia.
 - Recent posts use curly quotes and apostrophes (’ “ ”), but the author sometimes types straight ones. Leave the author's characters as written.
 - Recent posts contain no em dashes. Don't introduce any.
-- Anything inside `{{ }}` or `{% %}` in a post is processed as Liquid. Wrap code samples that contain those sequences in `{% raw %}...{% endraw %}`.
+- Posts are processed as Liquid: anything between double curly braces, or between a curly brace and a percent sign, is treated as a template tag. Wrap code samples that contain those sequences in a Liquid `raw` block.
+- GitHub Pages also renders Markdown files that have no front matter, and runs them through Liquid. Any new Markdown file at the root (like this one) gets published and can break the build, so add it to `exclude` in `_config.yml`.
 - Raw HTML (styled `<p>`, `<div>`, `<iframe>`) renders on the site but not in GitHub's Markdown file viewer. That's expected.
 
 ### Images
