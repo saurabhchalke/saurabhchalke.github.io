@@ -18,7 +18,7 @@ We’re excited about the progress we’ve made, and about the products in the p
 
 We’ll have a lot more to share in the coming months as we keep pushing the boundaries of lighter-than-air tech, and make sure it ends up being net good for humanity.
 
-Watch the highlights from the first launch:
+## Watch the highlights from the first launch
 
 <div style="position:relative; width:100%; aspect-ratio:16/9; margin: 1rem 0;">
   <iframe src="https://www.youtube-nocookie.com/embed/r-9RYNc6Kek" title="Highlights from the first Thinking Balloon launch" style="position:absolute; inset:0; width:100%; height:100%; border:0;" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
